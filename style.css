@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap');
+:root{
+    --branco: #F5FFFA;
+    --cor-de-fundo: #B0E0E6;
+    --fundo-senha: #E0FFFF;
+    --fundo-texto: #F0FFFF;
+    --borda: #00BFFF;
+    --roboto: 'Roboto' , sans-serif;
+    --roboto-mono: 'Roboto Mono' , monospace;
+}
